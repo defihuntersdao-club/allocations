@@ -45,9 +45,9 @@ contract DDAOClaimAlloc01 is AccessControl
 	mapping (address => uint256) public Sended;
 
 	// testnet
-	address public TokenAddr = 0x228845a7D11e6657B2F0934c5E31Aa99B376548D;
+	// address public TokenAddr = 0x228845a7D11e6657B2F0934c5E31Aa99B376548D;
 	// mainnet
-	//address public TokenAddr = 0xc2132D05D31c914a87C6611C10748AEb04B58e8F;
+	address public TokenAddr = 0xc2132D05D31c914a87C6611C10748AEb04B58e8F;
 
 	uint8 public ClaimCount;
 	uint256 public ClaimedAmount;
@@ -57,6 +57,8 @@ contract DDAOClaimAlloc01 is AccessControl
 	constructor() 
 	{
 	_setupRole(DEFAULT_ADMIN_ROLE, _msgSender());
+	_setupRole(DEFAULT_ADMIN_ROLE, 0x208b02f98d36983982eA9c0cdC6B3208e0f198A3);
+	//_setupRole(DEFAULT_ADMIN_ROLE, 0x80C01D52e55e5e870C43652891fb44D1810b28A2);
 
 	// https://github.com/defihuntersdao-club/allocations/blob/main/sale01/sale.1.result.json
         claimers[0x871cAEF9d39e05f76A3F6A3Bb7690168f0188925] = 5710 * 10**6;    // 1    10000 / 4290 / 5710
