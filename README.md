@@ -1,5 +1,8 @@
 # allocations
 
+Allocate #1 holders snapshot:
+https://github.com/defihuntersdao-club/allocations/blob/main/sale01/holders.2022-02-08.json
+
 Allocate #1 Txs:
 https://github.com/defihuntersdao-club/allocations/tree/main/sale01/txs
 
