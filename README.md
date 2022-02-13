@@ -1,5 +1,8 @@
 # allocations
 
+Allocate #1 Txs:
+https://github.com/defihuntersdao-club/allocations/tree/main/sale01/txs
+
 Allocate #1 results:
 https://github.com/defihuntersdao-club/allocations/blob/main/sale01/sale.1.result.json
 
