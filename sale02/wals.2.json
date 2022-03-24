@@ -1,0 +1,192 @@
+{
+    "0xc03992cf3626321b81600a3457225f3f8a732837": {
+        "my_amount": 633,
+        "my_matic_l1": 633,
+        "my_matic_amount": 633
+    },
+    "0xa6700ea3f19830e2e8b35363c2978cb9d5630303": {
+        "my_amount": 600,
+        "my_matic_l1": 600,
+        "my_matic_amount": 600
+    },
+    "0xfa79f7c2601a4c2a40c80ec10ce0667988b0fc36": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0xda7b5c50874a82c0262b4ea6e6001e2b002829e9": {
+        "my_amount": 3000,
+        "my_bsc_l3": 3000,
+        "my_bsc_amount": 3000
+    },
+    "0xceea2d354c6357ed7e10e629bd2734119a5b3c21": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0xa542e3cdd21841ccbcca70017101eb6a2fc68723": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0x523bd9c190df614f1e98611793eaa8d1a0914b8b": {
+        "my_amount": 500,
+        "my_matic_l1": 500,
+        "my_matic_amount": 500
+    },
+    "0x94d3b13745c23fb57a9634db0b6e4f0d8b5a1053": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0x0f5a11bec9b124e73f51186042f4516f924353e0": {
+        "my_amount": 500,
+        "my_matic_l1": 500,
+        "my_matic_amount": 500
+    },
+    "0xe40cc4de1a57e83aac249bb4ef833b766f26e2f2": {
+        "my_amount": 449,
+        "my_bsc_l1": 449,
+        "my_bsc_amount": 449
+    },
+    "0x093e088901909deecc1b4a1479fbcce1fbed31e7": {
+        "my_amount": 300,
+        "my_bsc_l1": 300,
+        "my_bsc_amount": 300
+    },
+    "0xc4b1bb0c1c8c29e234f1884b7787c7e14e1bc0a1": {
+        "my_amount": 500,
+        "my_matic_l1": 500,
+        "my_matic_amount": 500
+    },
+    "0x6592ab22fad2d91c01ccb4429f11022e2595c401": {
+        "my_amount": 330,
+        "my_bsc_l1": 330,
+        "my_bsc_amount": 330
+    },
+    "0x0118838575be097d0e41e666924cd5e267cef444": {
+        "my_amount": 655,
+        "my_bsc_l1": 655,
+        "my_bsc_amount": 655
+    },
+    "0x2ce83785ed44961959bf5251e85af897ba9ddac7": {
+        "my_amount": 304,
+        "my_matic_l1": 304,
+        "my_matic_amount": 304
+    },
+    "0xfb81414570e338e28c98417c38a3a5c9c6503516": {
+        "my_amount": 3000,
+        "my_matic_l3": 3000,
+        "my_matic_amount": 3000
+    },
+    "0xe6bb1bebf6829ca5240a80f7076e4cfd6ee540ae": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0x8d88f01d183ddfd30782e565fdbcd85c14413caf": {
+        "my_amount": 500,
+        "my_matic_l1": 500,
+        "my_matic_amount": 500
+    },
+    "0x99cd484206f19a0341f06228bf501abfee457b95": {
+        "my_amount": 6000,
+        "my_bsc_l3": 6000,
+        "my_bsc_amount": 6000
+    },
+    "0xed08e8d72d35428b28390b7334ebe7f9f7a64822": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0xc3ab2c2eb604f159c842d9cadabba2d6254c43d5": {
+        "my_amount": 349,
+        "my_bsc_l1": 349,
+        "my_bsc_amount": 349
+    },
+    "0x55e9762e2aa135584969dcd6a7d550a0faadbcd6": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0x390b07dc402dcfd54d5113c8f85d90329a0141ef": {
+        "my_amount": 997,
+        "my_matic_l1": 997,
+        "my_matic_amount": 997
+    },
+    "0x5f3e1bf780ca86a7ffa3428ce571d4a6d531575d": {
+        "my_amount": 2000,
+        "my_bsc_l2": 2000,
+        "my_bsc_amount": 2000
+    },
+    "0xb6a95916221abef28339594161cd154bc650c515": {
+        "my_amount": 600,
+        "my_bsc_l1": 600,
+        "my_bsc_amount": 600
+    },
+    "0x2f48e68d0e507af5a278130d375aa39f4966e452": {
+        "my_amount": 600,
+        "my_bsc_l1": 600,
+        "my_bsc_amount": 600
+    },
+    "0xe088efbff6aa52f679f76f33924c61f2d79ff8e2": {
+        "my_amount": 560,
+        "my_matic_l1": 560,
+        "my_matic_amount": 560
+    },
+    "0x3a484fc4e7873bd79d0b9b05ed6067a549ec9f49": {
+        "my_amount": 3000,
+        "my_matic_l3": 3000,
+        "my_matic_amount": 3000
+    },
+    "0x2fff3f5b8560407781dfcb04a068d7635a179efe": {
+        "my_amount": 495,
+        "my_matic_l1": 495,
+        "my_matic_amount": 495
+    },
+    "0x05c4c65873473c13741c31de2d74005832a0a3d8": {
+        "my_amount": 1000,
+        "my_matic_l1": 1000,
+        "my_matic_amount": 1000
+    },
+    "0x882bbb07991c5c2f65988fd077cddf405fe5b56f": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0x07587c046d4d4bd97c2d64edbfab1c1fe28a10e5": {
+        "my_amount": 2003,
+        "my_bsc_l2": 2003,
+        "my_bsc_amount": 2003
+    },
+    "0xcc1c812774a28820e364dbcccd205c2167e56cd9": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0xf7f341c7cf5557536ebaddbe1a55dff0a4981f51": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0x14df5677aa90ec0d64c631621dad80b44f9deaff": {
+        "my_amount": 1000,
+        "my_bsc_l2": 1000,
+        "my_bsc_amount": 1000
+    },
+    "0x2e5f97ce8b95ffb5b007da1dd8fe0399679a6f23": {
+        "my_amount": 300,
+        "my_matic_l1": 300,
+        "my_matic_amount": 300
+    },
+    "0x6acb64a76e62d433a9bdcb4eea8343be8b3bef48": {
+        "my_amount": 300,
+        "my_bsc_l1": 300,
+        "my_bsc_amount": 300
+    },
+    "0xb521154e8f8978f64567fe0fa7359ab47f7363fa": {
+        "my_amount": 300,
+        "my_bsc_l1": 300,
+        "my_bsc_amount": 300
+    }
+}
